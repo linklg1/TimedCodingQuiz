@@ -9,7 +9,7 @@ The quiz includes a timer which gains time when a question is answered correctly
 
 Deployment link: 
 
-https://linklg1.github.io/TimedQuiz/
+https://linklg1.github.io/TimedCodingQuiz/ 
 
 Screenshots: 
 ![alt text](assets/images/screenshot1.png)
