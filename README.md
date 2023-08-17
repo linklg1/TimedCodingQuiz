@@ -1,6 +1,5 @@
 # TimedCodingQuiz
 
-# TimedQuiz
 
 This webpage launches a timed coding quiz with multiple-choice questions. Running in the browser this features dynamically updated HTML and CSS powered by JavaScript written by Link.
 
